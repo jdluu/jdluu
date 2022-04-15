@@ -8,7 +8,7 @@ I'm a 2nd year student at UCSD interested in all things software engineering, bo
 ![](https://github.com/jdluu/github_stats/blob/master/generated/languages.svg)
 
 <a href="https://www.linkedin.com/in/jeffrey-luu/">
-  <img align="left" alt="Connect with me on Linkedin!" width="20px" src="https://www.svgrepo.com/show/58271/linkedin.svg" />
+  <img align="left" alt="Connect with me on Linkedin!" width="20px" src="https://www.svgrepo.com/show/299433/linkedin.svg" />
 </a>
 
 
