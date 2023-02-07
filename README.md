@@ -11,7 +11,7 @@
 
 
 
-I'm a 3rd year student at UCSD interested in software engineering. I'm a dilligent learner, familiar with agile-based software engineering and eager to learn new technologies to develop new products! I am looking to expand my technical skills and gain valuable experiences in industry!
+I'm a 3rd year student at UCSD studying Human-Computer Interaction and Computer Science. I've taken classes on Data Science, Computer Graphics, Web Design, and even Social Computing. However, my expertise and experience lie in mobile development for Android and web development.  I'm a dilligent learner, familiar with agile-based software engineering and eager to learn new technologies to develop new products!
 
 ![](https://github.com/jdluu/github_stats/blob/master/generated/overview.svg)
 ![](https://github.com/jdluu/github_stats/blob/master/generated/languages.svg)
