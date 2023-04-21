@@ -6,7 +6,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/jeffrey-luu/"><img src="https://www.svgrepo.com/show/299433/linkedin.svg" width = "40px" alt="Connect with me!" /></a>&nbsp;
-<a href="https://jdluu.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white alt="Portfolio in Progress" /></a>&nbsp;
+<a href="https://jeffreyluu.com"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white alt="Portfolio in Progress" /></a>&nbsp;
 </p>
 
 
