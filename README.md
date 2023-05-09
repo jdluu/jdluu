@@ -1,6 +1,6 @@
 <p>
   <h1 align="center">
-    <b>Hi there, I'm Jeffrey! 
+    <b>Hi there, I'm Jeffrey Luu! 
   </h1>
 </p>
 
@@ -11,11 +11,15 @@
 
 
 
-I'm a 3rd year student at UCSD studying Human-Computer Interaction and Computer Science. 
+Hello! My name is Jeffrey Luu, a UCSD Student studying Human Computer Interaction and Computer Science, set to graduate in June 2023.
 
-I've taken classes on Data Science, Computer Graphics, Web Design, and even Social Computing. However, my expertise and experience lie in mobile development for Android and web development.  
+Throughout my studies, I have developed a passion for creating technology that not only meets functional requirements, but also provides an exceptional user experience. By combining the technical skills I've learned with a Human Centered Design approach, I work towards finding innovative solutions to problems through the design and development process. 
 
-I'm a dilligent learner, familiar with agile-based software engineering and eager to learn new technologies to develop new products!
+Beyond my academic pursuits, I enjoy spending my free time reading, playing video games, and running. In fact, I am currently training to run a marathon and am excited to take on this challenge.
+
+I am eager to explore opportunities to apply my skills and knowledge in the field of HCI and CS. Whether it's through internships or full-time positions, I am excited to contribute to projects that make a positive impact on people's lives.
+
+Thank you for taking the time to learn more about me. Please feel free to connect with me on LinkedIn or reach out to me directly. I look forward to connecting with you!
 
 ![](https://github.com/jdluu/github_stats/blob/master/generated/overview.svg)
 ![](https://github.com/jdluu/github_stats/blob/master/generated/languages.svg)
