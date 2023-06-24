@@ -11,7 +11,7 @@
 
 
 
-Hello! My name is Jeffrey Luu, a UCSD Student studying Human Computer Interaction and Computer Science, set to graduate in June 2023.
+Hello! My name is Jeffrey Luu, a UCSD Class of 2023 Alumni who studied Human Computer Interaction and Computer Science.
 
 Throughout my studies, I have developed a passion for creating technology that not only meets functional requirements, but also provides an exceptional user experience. By combining the technical skills I've learned with a Human Centered Design approach, I work towards finding innovative solutions to problems through the design and development process. 
 
