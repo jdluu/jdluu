@@ -11,7 +11,8 @@
 
 
 
-Hello! My name is Jeffrey Luu, a 2023 UCSD Graduate who studied Human Computer Interaction and Computer Science.
+Hello! My name is Jeffrey Luu, a current M.S. student studying Computer Science at California State University - Long Beach.
+I did my B.S. in Human Computer Interaction, minoring in Computer Science at University of California San Diego.
 
 ![](https://github.com/jdluu/github_stats/blob/master/generated/overview.svg)
 ![](https://github.com/jdluu/github_stats/blob/master/generated/languages.svg)
