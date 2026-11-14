@@ -1,3 +1,3 @@
 # Jeffrey Luu
 
-Local-first software · Android · developer tooling · self-hosted infrastructure
+Local-first software · Android · LLM agents · developer tooling · self-hosted infrastructure
